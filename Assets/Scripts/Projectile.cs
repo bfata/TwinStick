@@ -38,7 +38,7 @@ public class Projectile : MonoBehaviour
 			damageableObject.TakeHit (damage, hit);
 		
 		}
-		print (hit.collider.gameObject.name);
+		//Print (hit.collider.gameObject.name);
 		GameObject.Destroy (gameObject);
 	}
 }
