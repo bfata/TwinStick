@@ -1,11 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy.cs">
     <Files>
+      <File FileName="Assets/Scripts/Enemy.cs" Line="80" Column="38" />
       <File FileName="Assets/Scripts/Projectile.cs" Line="41" Column="10" />
       <File FileName="Assets/Scripts/Spawner.cs" Line="4" Column="2" />
       <File FileName="Assets/Scripts/LivingEntity.cs" Line="7" Column="4" />
-      <File FileName="Assets/Scripts/Enemy.cs" Line="11" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
