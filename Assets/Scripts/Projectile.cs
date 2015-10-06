@@ -8,6 +8,13 @@ public class Projectile : MonoBehaviour
 	float speed = 10;
 	float damage = 1;
 
+	float lifetime = 3;
+
+	void Start ()
+	{
+		Destroy (gameObject, lifetime);
+	}
+
 	public void SetSpeed (float newSpeed)
 	{
 		speed = newSpeed;
